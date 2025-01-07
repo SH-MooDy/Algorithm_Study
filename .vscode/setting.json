@@ -1,0 +1,37 @@
+{
+    "files.associations": {
+        "algorithm": "cpp",
+        "set": "cpp",
+        "xstring": "cpp",
+        "vector": "cpp",
+        "xutility": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "string": "cpp",
+        "iostream": "cpp",
+        "list": "cpp",
+        "stdexcept": "cpp",
+        "stack": "cpp",
+        "xiosbase": "cpp",
+        "queue": "cpp",
+        "fstream": "cpp",
+        "utility": "cpp",
+        "span": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "terminal.integrated.scrollback": 10000,
+    "CodeGPT.apiKey": "CodeGPT Plus Beta",
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "C_Cpp.clang_format_style": {
+        "BasedOnStyle": "Google",
+        "IndentWidth": 4,
+        "ColumnLimit": 0,
+        "BreakBeforeBraces": "Allman",
+        "SpacesInParentheses": false,
+        "CommentPragmas": "^.*$"
+    },
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true
+}
